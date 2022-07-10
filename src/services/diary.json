@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "name": "javi",
+        "weather": "rain",
+        "date": "2021-01-01"
+    },
+    {
+        "id": 2,
+        "name": "zid",
+        "weather": "clear",
+        "date": "2021-01-05"
+    }
+]
